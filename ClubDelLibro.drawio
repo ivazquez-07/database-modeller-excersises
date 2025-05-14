@@ -84,7 +84,7 @@
           <mxGeometry x="480" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IEarKkadrqJ-7OaDFkOo-40" value="(0,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="485" width="60" height="30" as="geometry" />
+          <mxGeometry x="479" y="486" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IEarKkadrqJ-7OaDFkOo-46" value="Contiene" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="410" y="183" width="140" height="60" as="geometry" />
